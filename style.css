@@ -1,0 +1,12 @@
+h1{
+    font-size: 40px;
+    color: purple;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 4px;
+}
+div{
+    height: 75vh;
+    width: 75vw;
+    background-color: gold;
+}
